@@ -1,5 +1,4 @@
 # Switchboard - easy A/B testing for your mobile app
----
 
 ## What it does
 
